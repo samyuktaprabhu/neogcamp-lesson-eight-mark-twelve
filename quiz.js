@@ -6,7 +6,7 @@ quizButton.addEventListener('click', quizHandler)
 
 const correctAnswers = [
   '90°',
-  'right angled',
+  'right',
   '5',
   'false',
   'true',

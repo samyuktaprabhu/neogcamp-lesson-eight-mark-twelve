@@ -6,10 +6,10 @@ quizButton.addEventListener('click', quizHandler)
 
 const correctAnswers = [
   '90°',
-  'right angled',
+  'right',
   '5',
-  'false',
-  'true',
+  '1',
+  '3',
   '85°',
   '10°',
   'a + b + c',
@@ -24,7 +24,6 @@ function quizHandler() {
     if (ans == correctAnswers[ind]) {
       score++
     }
-    ind++
   }
   outerText.innerText = 'Your final score is ' + score + ' 🙂'
 }

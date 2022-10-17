@@ -4,7 +4,7 @@
 <h3 align="center" name="readme-top">All about Triangles</h3>
 
   <p align="center">
-    An app to test your knowledge onn triangles
+    An app to test your knowledge on triangles
     <br />
     <a href="https://allabouttrianglesbysam.netlify.app/"><strong>Click here to try »</strong></a>
     <br />
